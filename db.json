@@ -1,4 +1,4 @@
-[
+{
    "btcinr":{
       "base_unit":"btc",
       "quote_unit":"inr",
@@ -69,4 +69,4 @@
       "at":1638330251,
       "name":"EOS/INR"
    }
-]
+}

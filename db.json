@@ -1,5 +1,4 @@
-[
-   {
+{
       "btcinr":{
          "base_unit":"btc",
          "quote_unit":"inr",
@@ -71,4 +70,3 @@
          "name":"EOS/INR"
       }
    }
-]
